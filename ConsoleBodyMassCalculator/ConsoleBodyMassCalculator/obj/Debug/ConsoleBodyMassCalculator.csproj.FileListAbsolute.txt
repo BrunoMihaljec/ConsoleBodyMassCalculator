@@ -1,0 +1,7 @@
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\Treci Zadatak.exe.config
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\Treci Zadatak.exe
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\Treci Zadatak.pdb
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.csprojAssemblyReference.cache
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\Treci Zadatak.exe
+C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\Treci Zadatak.pdb
