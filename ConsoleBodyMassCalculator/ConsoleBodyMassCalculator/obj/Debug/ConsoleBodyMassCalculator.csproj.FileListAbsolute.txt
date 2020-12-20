@@ -5,3 +5,10 @@ C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\
 C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.csproj.CoreCompileInputs.cache
 C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\Treci Zadatak.exe
 C:\Users\mihal\source\repos\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\Treci Zadatak.pdb
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\ConsoleBodyMassCalculator.exe.config
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\ConsoleBodyMassCalculator.exe
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\bin\Debug\ConsoleBodyMassCalculator.pdb
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.csprojAssemblyReference.cache
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.exe
+C:\Users\mihal\OneDrive\Documents\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\ConsoleBodyMassCalculator\obj\Debug\ConsoleBodyMassCalculator.pdb

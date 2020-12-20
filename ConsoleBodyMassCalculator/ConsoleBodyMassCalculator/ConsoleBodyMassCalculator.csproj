@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{969AA9B0-68E5-47B1-90C9-6257411CCE8F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Treci_Zadatak</RootNamespace>
-    <AssemblyName>Treci Zadatak</AssemblyName>
+    <RootNamespace>ConsoleBodyMassCalculator</RootNamespace>
+    <AssemblyName>ConsoleBodyMassCalculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
